@@ -10,4 +10,4 @@ bandit8 >> dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 bandit9 >> 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 bandit10 >> FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 bandit11 >> dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr  # cat data.txt | base64
-bandit12 >> 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 -- cat data.txt | tr 'N-ZA-Mn-za-m' 'A-Za-z'
+bandit12 >> 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4  # cat data.txt | tr 'N-ZA-Mn-za-m' 'A-Za-z'
